@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="2" time="129.740843">
-    <testcase classname="Login tests" name="Sign up Vita Mojo" time="83.028625">
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="2" time="136.552601">
+    <testcase classname="Login tests" name="Sign up Vita Mojo" time="83.700051">
         <system-out><![CDATA[Given User is on home page..................................................passed
 When Enter details in signup form...........................................passed
 Then Validate account name..................................................passed
 And Close the browser.......................................................passed
 ]]></system-out>
     </testcase>
-    <testcase classname="Login tests" name="Login to Vita Mojo" time="46.712218">
+    <testcase classname="Login tests" name="Login to Vita Mojo" time="52.85255">
         <system-out><![CDATA[Given User is on home page..................................................passed
 When Enter username and password............................................passed
 Then Close the browser......................................................passed

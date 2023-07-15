@@ -1,7 +1,5 @@
 package stepDefnitions;
 
-import org.apache.logging.log4j.LogManager;
-import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.WebDriver;
 
 import cucumber.TestContext;
@@ -18,12 +16,11 @@ public class Hooks {
 		testContext = context;
 	}
 
-	private static final Logger logger = LogManager.getLogger(Hooks.class);
 	
 	@Before
 	public void beforeSteps(Scenario scenario) {
 		
-		logger.info("Test scenario: "+scenario.getName());
+		System.out.println("Test scenario: "+scenario.getName());
 	    
 	}
 	
