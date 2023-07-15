@@ -7,7 +7,7 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 5882310875,
+  "duration": 6371355750,
   "status": "passed"
 });
 formatter.scenario({
@@ -52,36 +52,36 @@ formatter.match({
   "location": "CreateAccount_steps.user_is_on_Home_Page()"
 });
 formatter.result({
-  "duration": 28025128375,
+  "duration": 28094163750,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateAccount_steps.enter_details_in_sign_up_form()"
 });
 formatter.result({
-  "duration": 31663541000,
+  "duration": 31243552334,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateAccount_steps.validate_account_name()"
 });
 formatter.result({
-  "duration": 17912659041,
+  "duration": 17006016542,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateAccount_steps.closeBrowser()"
 });
 formatter.result({
-  "duration": 125019958,
+  "duration": 158069584,
   "status": "passed"
 });
 formatter.after({
-  "duration": 91391875,
+  "duration": 155467458,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4524221792,
+  "duration": 4619829041,
   "status": "passed"
 });
 formatter.scenario({
@@ -121,25 +121,25 @@ formatter.match({
   "location": "CreateAccount_steps.user_is_on_Home_Page()"
 });
 formatter.result({
-  "duration": 26046270041,
+  "duration": 28151278792,
   "status": "passed"
 });
 formatter.match({
   "location": "Loginpage_steps.enter_username_and_password()"
 });
 formatter.result({
-  "duration": 22075687959,
+  "duration": 13729865375,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateAccount_steps.closeBrowser()"
 });
 formatter.result({
-  "duration": 126483750,
+  "duration": 129224708,
   "status": "passed"
 });
 formatter.after({
-  "duration": 79886917,
+  "duration": 82019791,
   "status": "passed"
 });
 });

@@ -1,6 +1,6 @@
-/Users/bharathsrinivasa/eclipse-workspace/VitaMojo-Framework/src/main/java/pageObjects/LoginPage.java
-/Users/bharathsrinivasa/eclipse-workspace/VitaMojo-Framework/src/main/java/managers/PageObjectManager.java
-/Users/bharathsrinivasa/eclipse-workspace/VitaMojo-Framework/src/main/java/managers/WebDriverManager.java
-/Users/bharathsrinivasa/eclipse-workspace/VitaMojo-Framework/src/main/java/cucumber/TestContext.java
-/Users/bharathsrinivasa/eclipse-workspace/VitaMojo-Framework/src/main/java/library/ReusableMethods.java
-/Users/bharathsrinivasa/eclipse-workspace/VitaMojo-Framework/src/main/java/pageObjects/CreateAccount.java
+/Users/bharathsrinivasa/Desktop/repository/VitaMojo-UIAutomationFramework/src/main/java/library/ReusableMethods.java
+/Users/bharathsrinivasa/Desktop/repository/VitaMojo-UIAutomationFramework/src/main/java/pageObjects/LoginPage.java
+/Users/bharathsrinivasa/Desktop/repository/VitaMojo-UIAutomationFramework/src/main/java/managers/PageObjectManager.java
+/Users/bharathsrinivasa/Desktop/repository/VitaMojo-UIAutomationFramework/src/main/java/managers/WebDriverManager.java
+/Users/bharathsrinivasa/Desktop/repository/VitaMojo-UIAutomationFramework/src/main/java/pageObjects/CreateAccount.java
+/Users/bharathsrinivasa/Desktop/repository/VitaMojo-UIAutomationFramework/src/main/java/cucumber/TestContext.java
