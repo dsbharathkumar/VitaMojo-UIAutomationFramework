@@ -1,0 +1,180 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 5882310875,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.beforeSteps(Scenario)"
+            }
+          }
+        ],
+        "line": 7,
+        "name": "Sign up Vita Mojo",
+        "description": "",
+        "id": "login-tests;sign-up-vita-mojo",
+        "after": [
+          {
+            "result": {
+              "duration": 91391875,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.afterSteps()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 28025128375,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "User is on home page",
+            "match": {
+              "location": "CreateAccount_steps.user_is_on_Home_Page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 31663541000,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "Enter details in signup form",
+            "match": {
+              "location": "CreateAccount_steps.enter_details_in_sign_up_form()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 17912659041,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "Validate account name",
+            "match": {
+              "location": "CreateAccount_steps.validate_account_name()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 125019958,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "Close the browser",
+            "match": {
+              "location": "CreateAccount_steps.closeBrowser()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "line": 6,
+            "name": "@TC001"
+          },
+          {
+            "line": 6,
+            "name": "@Registration"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 4524221792,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.beforeSteps(Scenario)"
+            }
+          }
+        ],
+        "line": 15,
+        "name": "Login to Vita Mojo",
+        "description": "",
+        "id": "login-tests;login-to-vita-mojo",
+        "after": [
+          {
+            "result": {
+              "duration": 79886917,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.afterSteps()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 26046270041,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "User is on home page",
+            "match": {
+              "location": "CreateAccount_steps.user_is_on_Home_Page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 22075687959,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "Enter username and password",
+            "match": {
+              "location": "Loginpage_steps.enter_username_and_password()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 126483750,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "Close the browser",
+            "match": {
+              "location": "CreateAccount_steps.closeBrowser()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 14,
+            "name": "@TC002"
+          },
+          {
+            "line": 14,
+            "name": "@Login"
+          }
+        ]
+      }
+    ],
+    "name": "Login tests",
+    "description": "\nDescription: This feature file is to test login pages.",
+    "id": "login-tests",
+    "keyword": "Feature",
+    "uri": "Functional_Tests.feature"
+  }
+]
